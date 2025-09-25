@@ -50,7 +50,7 @@ from rich.progress import track
 from rich.markdown import Markdown
 from rich.tree import Tree
 from rich.panel import Panel
-from rich.padding import Padding;import webbrowser;webbrowser.open('https://t.me/MOURAD_B2M_1')
+from rich.padding import Padding;import webbrowser;webbrowser.open('https://www.facebook.com/B2M.DZ')
 
 
 
